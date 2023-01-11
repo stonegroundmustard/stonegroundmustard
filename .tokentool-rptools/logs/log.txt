@@ -1,0 +1,215 @@
+2023-01-04 20:36:07.579 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Overlays installed: 0
+2023-01-04 20:36:07.617 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Lava.psd
+2023-01-04 20:36:07.625 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Chain Link, Blue.psd
+2023-01-04 20:36:07.635 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Picture Frame.psd
+2023-01-04 20:36:07.642 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Dark Marble.psd
+2023-01-04 20:36:07.652 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Rock.psd
+2023-01-04 20:36:07.660 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Purple Haze.psd
+2023-01-04 20:36:07.668 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Dark Blue and Light Blue.psd
+2023-01-04 20:36:07.677 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Pink.psd
+2023-01-04 20:36:07.694 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Green and Blue.psd
+2023-01-04 20:36:07.701 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Chain Link, Black.psd
+2023-01-04 20:36:07.724 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Silver and Blue with Vortex.psd
+2023-01-04 20:36:07.745 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Concrete.psd
+2023-01-04 20:36:07.755 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\NPC.psd
+2023-01-04 20:36:07.763 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Gold.psd
+2023-01-04 20:36:07.769 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Magic Armor.jpg
+2023-01-04 20:36:07.777 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Brass.psd
+2023-01-04 20:36:07.785 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Green Proto.psd
+2023-01-04 20:36:07.793 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\White and Purple.psd
+2023-01-04 20:36:07.799 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Silver.psd
+2023-01-04 20:36:07.811 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Grey, Dark.psd
+2023-01-04 20:36:07.820 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\White.psd
+2023-01-04 20:36:07.827 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Crimson.psd
+2023-01-04 20:36:07.835 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Gold Strata.psd
+2023-01-04 20:36:07.843 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Rednium.psd
+2023-01-04 20:36:07.850 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Gears\Gear, Chrome.psd
+2023-01-04 20:36:07.859 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Cobalt.psd
+2023-01-04 20:36:07.868 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Black.psd
+2023-01-04 20:36:07.880 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Blue and Gold.psd
+2023-01-04 20:36:07.888 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Brass.psd
+2023-01-04 20:36:07.894 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Blue.png
+2023-01-04 20:36:07.900 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Aztec.psd
+2023-01-04 20:36:07.905 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Camo.psd
+2023-01-04 20:36:07.911 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Gold.psd
+2023-01-04 20:36:07.916 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Blue.psd
+2023-01-04 20:36:07.923 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Marble.psd
+2023-01-04 20:36:07.929 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Gold.psd
+2023-01-04 20:36:07.936 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Black Satin.psd
+2023-01-04 20:36:07.943 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Green and White.psd
+2023-01-04 20:36:07.949 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Camo.png
+2023-01-04 20:36:07.954 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Create\Base, Create Custom Overlay.psd
+2023-01-04 20:36:07.959 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Create\Blank.psd
+2023-01-04 20:36:07.975 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Magic Item.png
+2023-01-04 20:36:07.988 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Gold.psd
+2023-01-04 20:36:07.998 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Silver.psd
+2023-01-04 20:36:08.014 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Mutation.jpg
+2023-01-04 20:36:08.021 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Grass.png
+2023-01-04 20:36:08.026 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Hay.png
+2023-01-04 20:36:08.045 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Picture Frame, Silver.psd
+2023-01-04 20:36:08.054 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Splash, Red.psd
+2023-01-04 20:36:08.075 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Magic Weapon.png
+2023-01-04 20:36:08.084 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Purple.psd
+2023-01-04 20:36:08.096 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Infinite Dragon, Lava.psd
+2023-01-04 20:36:08.105 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Hay.png
+2023-01-04 20:36:08.111 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Metal.png
+2023-01-04 20:36:08.119 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Alien.psd
+2023-01-04 20:36:08.126 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Fire.psd
+2023-01-04 20:36:08.133 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Blue Steel.psd
+2023-01-04 20:36:08.138 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Green.psd
+2023-01-04 20:36:08.146 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Copper.psd
+2023-01-04 20:36:08.152 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Translucent.psd
+2023-01-04 20:36:08.159 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Splash, Blue.psd
+2023-01-04 20:36:08.169 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Green.psd
+2023-01-04 20:36:08.176 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Cracked.psd
+2023-01-04 20:36:08.183 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Masonry.psd
+2023-01-04 20:36:08.190 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Sandy Green.psd
+2023-01-04 20:36:08.198 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Rosewood.psd
+2023-01-04 20:36:08.205 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Stone.psd
+2023-01-04 20:36:08.212 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Stucco.psd
+2023-01-04 20:36:08.220 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\White and Red.psd
+2023-01-04 20:36:08.227 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Brown.psd
+2023-01-04 20:36:08.235 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Blue, Shiny.psd
+2023-01-04 20:36:08.242 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Stones.psd
+2023-01-04 20:36:08.253 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Picture Frame, Fancy, Gold.psd
+2023-01-04 20:36:08.261 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\White and Light Blue.psd
+2023-01-04 20:36:08.268 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Wooden.psd
+2023-01-04 20:36:08.278 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Town.jpg
+2023-01-04 20:36:08.286 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Dark.psd
+2023-01-04 20:36:08.293 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Red and Gold.psd
+2023-01-04 20:36:08.299 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Red.psd
+2023-01-04 20:36:08.305 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Gold.psd
+2023-01-04 20:36:08.311 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Cobble.png
+2023-01-04 20:36:08.320 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Ouroboros.psd
+2023-01-04 20:36:08.325 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Firelight.png
+2023-01-04 20:36:08.330 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Beige.psd
+2023-01-04 20:36:08.339 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Pewter.psd
+2023-01-04 20:36:08.346 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\PC.psd
+2023-01-04 20:36:08.359 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Leaves.psd
+2023-01-04 20:36:08.367 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Grass with Border.png
+2023-01-04 20:36:08.373 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Orange.psd
+2023-01-04 20:36:08.378 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Purple.psd
+2023-01-04 20:36:08.385 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Jade.psd
+2023-01-04 20:36:08.393 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Platinum.psd
+2023-01-04 20:36:08.399 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Copper, Pitted.psd
+2023-01-04 20:36:08.405 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Black with Reflections.psd
+2023-01-04 20:36:08.413 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Green.psd
+2023-01-04 20:36:08.420 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Blood Steel.psd
+2023-01-04 20:36:08.428 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Blue.psd
+2023-01-04 20:36:08.434 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Inscriptions.psd
+2023-01-04 20:36:08.442 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Fairy Ring.psd
+2023-01-04 20:36:08.454 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Brass Frame.psd
+2023-01-04 20:36:08.462 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Rocky Chunk.psd
+2023-01-04 20:36:08.468 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Splash, Green.psd
+2023-01-04 20:36:08.475 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Silver.psd
+2023-01-04 20:36:08.481 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Red.psd
+2023-01-04 20:36:08.496 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\European.png
+2023-01-04 20:36:08.503 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Create\Frame, Create Custom Overlay.psd
+2023-01-04 20:36:08.512 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Grey, Dark.psd
+2023-01-04 20:36:08.519 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Gears\Gear, Black.psd
+2023-01-04 20:36:08.527 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Steel.psd
+2023-01-04 20:36:08.534 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Blue Enchanted.psd
+2023-01-04 20:36:08.538 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Metal Plate.png
+2023-01-04 20:36:08.548 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Undead.psd
+2023-01-04 20:36:08.555 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Wooden.png
+2023-01-04 20:36:08.561 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Modern, Light Gray.psd
+2023-01-04 20:36:08.572 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Gear.jpg
+2023-01-04 20:36:08.587 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Wanted.jpg
+2023-01-04 20:36:08.595 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Modern, Dark Gray.psd
+2023-01-04 20:36:08.601 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Silver, Thin.psd
+2023-01-04 20:36:08.607 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Translucent.psd
+2023-01-04 20:36:08.614 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Roses.psd
+2023-01-04 20:36:08.619 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Dark and Shiny.psd
+2023-01-04 20:36:08.631 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Picture Frame, Gold.psd
+2023-01-04 20:36:08.643 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Silver.psd
+2023-01-04 20:36:08.656 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Grey, Light.psd
+2023-01-04 20:36:08.669 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Silver and Blue.psd
+2023-01-04 20:36:08.677 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Light Blue and Dark Blue.psd
+2023-01-04 20:36:08.688 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Onyx.psd
+2023-01-04 20:36:08.693 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Silver.psd
+2023-01-04 20:36:08.699 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Steel, Pitted.psd
+2023-01-04 20:36:08.706 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Target Aquired.psd
+2023-01-04 20:36:08.715 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Gears\Gear, Silver and Brass.psd
+2023-01-04 20:36:08.722 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Modern, Grate.psd
+2023-01-04 20:36:08.729 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\A Narrow, Black and White.psd
+2023-01-04 20:36:08.736 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Verdigris.psd
+2023-01-04 20:36:08.741 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Transparent.psd
+2023-01-04 20:36:08.751 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Proxy.png
+2023-01-04 20:36:08.758 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Cobblestone.psd
+2023-01-04 20:36:08.820 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Stargate.psd
+2023-01-04 20:36:08.833 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Marble.png
+2023-01-04 20:36:08.840 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Iron, Pitted.psd
+2023-01-04 20:36:08.850 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Gold.psd
+2023-01-04 20:36:08.857 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Base, Rock.png
+2023-01-04 20:36:08.863 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Rope.psd
+2023-01-04 20:36:08.868 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Marble.psd
+2023-01-04 20:36:08.881 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Red.psd
+2023-01-04 20:36:08.894 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Cards\Threat.jpg
+2023-01-04 20:36:08.905 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Blue.psd
+2023-01-04 20:36:08.911 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Burnished Orange.psd
+2023-01-04 20:36:08.915 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Rock.png
+2023-01-04 20:36:08.924 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Black and Dark Blue.psd
+2023-01-04 20:36:08.930 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Green, light.psd
+2023-01-04 20:36:08.939 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Klingon.psd
+2023-01-04 20:36:08.950 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Red.psd
+2023-01-04 20:36:08.957 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Steel, Heated.psd
+2023-01-04 20:36:08.965 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Green.psd
+2023-01-04 20:36:08.971 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Blue Maze.psd
+2023-01-04 20:36:08.989 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Leaves, Large.psd
+2023-01-04 20:36:08.996 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metallic, Blue.psd
+2023-01-04 20:36:09.001 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Gears\Gear, Blue.psd
+2023-01-04 20:36:09.008 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Black and Light Blue.psd
+2023-01-04 20:36:09.016 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Circuit Board.psd
+2023-01-04 20:36:09.026 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Hi-Tech, Black.psd
+2023-01-04 20:36:09.033 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Chains\Verdigris, Pitted.psd
+2023-01-04 20:36:09.038 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Blood Red.psd
+2023-01-04 20:36:09.043 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Rocky Scale.psd
+2023-01-04 20:36:09.054 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Blue.psd
+2023-01-04 20:36:09.065 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Infinite Dragon.psd
+2023-01-04 20:36:09.071 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Dark Gray and Red.psd
+2023-01-04 20:36:09.081 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Grey, Light.psd
+2023-01-04 20:36:09.090 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Draco.psd
+2023-01-04 20:36:09.105 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Hi-Tech, Blue.psd
+2023-01-04 20:36:09.117 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Bronze.psd
+2023-01-04 20:36:09.126 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Purple and Gold.psd
+2023-01-04 20:36:09.131 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Tile.png
+2023-01-04 20:36:09.140 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps\Base, Black.psd
+2023-01-04 20:36:09.154 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Hi-Tech, Red.psd
+2023-01-04 20:36:09.164 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Light Blue and White.psd
+2023-01-04 20:36:09.171 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated\Tribal Ouroboros.psd
+2023-01-04 20:36:09.177 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Hex\Weave.psd
+2023-01-04 20:36:09.183 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Runes\Black and Red.psd
+2023-01-04 20:36:09.188 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Square\Translucent.png
+2023-01-04 20:36:09.193 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Lead.psd
+2023-01-04 20:36:09.198 [JavaFX-Launcher] INFO  net.rptools.tokentool.AppSetup - Installing overlay: C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth\Metal.psd
+2023-01-04 20:36:09.506 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - Environment: Production
+2023-01-04 20:36:09.506 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - Sentry DSN: https://312e480e6390426095b0a66a11f343a9@sentry.io/1406000
+2023-01-04 20:36:09.507 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - Vendor: rptools
+2023-01-04 20:36:09.507 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - Release: 2.2.1
+2023-01-04 20:36:09.508 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - OS: Windows 10
+2023-01-04 20:36:09.509 [JavaFX-Launcher] INFO  net.rptools.tokentool.client.TokenTool - 3D Hardware Available? true
+2023-01-04 20:36:09.540 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays
+2023-01-04 20:36:09.541 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Cards
+2023-01-04 20:36:10.631 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Create
+2023-01-04 20:36:11.128 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Hex
+2023-01-04 20:36:11.651 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round
+2023-01-04 20:36:11.652 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Bottlecaps
+2023-01-04 20:36:12.989 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Chains
+2023-01-04 20:36:13.974 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Decorated
+2023-01-04 20:36:16.171 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Gears
+2023-01-04 20:36:16.443 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Runes
+2023-01-04 20:36:17.500 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Round\Smooth
+2023-01-04 20:36:21.022 [JavaFX-Launcher] DEBUG net.rptools.tokentool.client.TokenTool - caching C:\Users\18126\.tokentool-rptools\overlays\Square
+2023-01-04 20:36:21.731 [JavaFX Application Thread] INFO  net.rptools.tokentool.AppPreferences - Restoring preferences from User Preference Node: /net/rptools/tokentool/client
+2023-01-04 20:36:21.732 [JavaFX Application Thread] DEBUG net.rptools.tokentool.controller.TokenTool_Controller - No Preferences currently saved.
+2023-01-04 20:36:22.743 [JavaFX Application Thread] DEBUG net.rptools.tokentool.model.Window_Preferences - JSON output: {"windowX":0.0,"windowY":0.0,"windowWidth":825.0,"windowHeight":825.0}
+2023-01-04 20:36:22.814 [JavaFX Application Thread] DEBUG net.rptools.tokentool.controller.TokenTool_Controller - recentOverlayTreeItems size : 0
+2023-01-04 20:37:57.496 [JavaFX Application Thread] DEBUG net.rptools.tokentool.controller.TokenTool_Controller - recentOverlayTreeItems size : 1
+2023-01-04 20:37:57.555 [JavaFX Application Thread] DEBUG net.rptools.tokentool.AppPreferences - Saving preferences to User Preference Node: /net/rptools/tokentool/client
+2023-01-04 20:37:57.563 [JavaFX Application Thread] DEBUG net.rptools.tokentool.AppPreferences - ...saving recent overlay count
+2023-01-04 20:37:57.564 [JavaFX Application Thread] DEBUG net.rptools.tokentool.AppPreferences - ...saving recent overlays
+2023-01-04 20:37:57.565 [JavaFX Application Thread] DEBUG net.rptools.tokentool.AppPreferences - ...saving last file save location
+2023-01-04 20:37:57.566 [JavaFX Application Thread] WARN  net.rptools.tokentool.AppPreferences - No portrait to save...
+2023-01-04 20:37:57.570 [JavaFX Application Thread] DEBUG net.rptools.tokentool.model.ImageView_Preferences - JSON output: {"translateX":0.0,"translateY":0.0,"rotation":0.0,"scale":1.0,"backgroundColor_r":0.501960813999176,"backgroundColor_g":0.7019608020782471,"backgroundColor_b":0.501960813999176,"backgroundColor_o":1.0}
+2023-01-04 20:37:57.571 [JavaFX Application Thread] DEBUG net.rptools.tokentool.model.Window_Preferences - JSON output: {"windowX":0.0,"windowY":0.0,"windowWidth":825.0,"windowHeight":825.0}
+2023-01-04 20:37:57.573 [JavaFX Application Thread] INFO  net.rptools.tokentool.controller.TokenTool_Controller - Exiting application.

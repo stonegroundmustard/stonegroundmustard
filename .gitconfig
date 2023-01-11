@@ -1,0 +1,7 @@
+[user]
+	name = Fox Stokes
+	email = foxvalentine001@gmail.com
+[credential "https://umn.bootcampcontent.com"]
+	provider = generic
+[push]
+	autoSetupRemote = true
